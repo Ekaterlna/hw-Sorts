@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+
 public class AviaSoulsTest {
     Ticket ticket1 = new Ticket("Ekaterinburg", "Astana", 11000, 23, 5);
     Ticket ticket2 = new Ticket("Moscow", "Vladikavkaz", 5500, 20, 24);
